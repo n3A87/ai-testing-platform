@@ -1,0 +1,17 @@
+streamlit
+opencv-python
+mysqlclient
+streamlit-aggrid
+streamlit-shadcn-ui
+streamlit-extras
+extra_streamlit_components
+streamlit_code_editor
+paramiko
+mysql-client
+pymysql
+pillow
+scikit-learn
+openpyxl
+SQLAlchemy
+zhipuai
+dashscope
